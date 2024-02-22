@@ -15,12 +15,12 @@ Laurent emphasizes the importance of a comprehensive dataset after merging the f
 - I merged data from the ERP export (erp.xlsx) and the online store product table export (web.xlsx).
 - To establish connections between product references in the ERP and the online store, I utilized Sylvie's Excel table (liaison.xlsx).
 
-  ###  2.Revenue Analysis:
+  ### 2.Revenue Analysis:
 - I calculated product-wise revenue and the total revenue generated online after successfully integrating the data.
 
-  ###  3.Price Analysis:
-  - I investigated potential errors in product prices by analyzing the data.
-  - Sylvie had already initiated work on this aspect using a Jupyter Notebook, recommending the use of Python and Pandas for efficient data cleaning.
+  ### 3.Price Analysis:
+- I investigated potential errors in product prices by analyzing the data.
+- Sylvie had already initiated work on this aspect using a Jupyter Notebook, recommending the use of Python and Pandas for efficient data cleaning.
  
 
 

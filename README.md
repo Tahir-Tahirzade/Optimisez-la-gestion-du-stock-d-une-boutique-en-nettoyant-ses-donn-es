@@ -53,5 +53,5 @@ Laurent emphasizes the importance of a comprehensive dataset after merging the f
  <li><a href=https://openclassrooms.com/fr/paths/592/projects/1319/resources>Documentation of the Plotly Express</a>
  <li><a href=https://www.ionos.fr/digitalguide/sites-internet/developpement-web/markdown/ Markdown:>The guide to the lightweight markup language(In French)</a>
  <li><a href=https://moncoachdata.com/blog/10-astuces-pandas-python/>10 Pandas tips that will make your work more efficient(In French)</a>
- <li><a href=https://towardsdatascience.com/the-7-personality-traits-of-a-great-data-scientist-60059873bfa97>Personality Traits of A Great Data Scientist)</a>
+ <li><a href=https://towardsdatascience.com/the-7-personality-traits-of-a-great-data-scientist-60059873bfa97>Personality Traits of A Great Data Scientist</a>
 

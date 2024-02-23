@@ -2,7 +2,7 @@
 
 ## A.Overview of the Project:
 
-#### In this project, I took on the challenge of addressing critical issues faced by BottleNeck, a prestigious online wine merchant, regarding its Enterprise Resource Planning (ERP) system. The tools in use were characterized as artisanal, leading to complexities in stock management and limited visibility into online sales analysis due to restricted access to the back-office. The choice of Python is justified due to its extensive open-source ecosystem, particularly beneficial for data analysis, data visualization, and cleaning tasks. The email from Laurent includes necessary data exports, along with additional information on alcohol characteristics (caracs_vins.csv).
+*In this project, I took on the challenge of addressing critical issues faced by BottleNeck, a prestigious online wine merchant, regarding its Enterprise Resource Planning (ERP) system. The tools in use were characterized as artisanal, leading to complexities in stock management and limited visibility into online sales analysis due to restricted access to the back-office. The choice of Python is justified due to its extensive open-source ecosystem, particularly beneficial for data analysis, data visualization, and cleaning tasks. The email from Laurent includes necessary data exports, along with additional information on alcohol characteristics (caracs_vins.csv).*
 
 The project aims to present the results during the next COPIL meeting, showcasing progress and insights gained. A presentation template (modèle de présentation) and additional slides for personal reflection are provided to assist in summarizing the work and lessons learned.
 
